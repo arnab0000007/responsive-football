@@ -30,7 +30,7 @@ main {
 }
 .banner:hover .banner-image img {
   transform: scale(1.1) rotate(10deg);
-  transition: transform 1s linear;
+  transition: transform 1s ease-in;
 }
 .banner-text h1 {
   font-size: 64px;
